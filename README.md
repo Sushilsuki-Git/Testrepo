@@ -1,2 +1,2 @@
 this is my first git repository
-author - sushil
+author - sushil JP
