@@ -4,10 +4,10 @@ public class JAVA {
       coustomer c1 = new coustomer();
       c1.show();
       coustomer c2 = new coustomer();
-      c1.cid = 99;
-      c1.cname = "sri";
-      c1.cphone = 23709580;
-      c1.show();
+      c2.cid = 99;
+      c2.cname = "sri";
+      c2.cphone = 23709580;
+      c2.show();
       
     }
   }
