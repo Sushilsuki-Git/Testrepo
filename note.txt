@@ -1,1 +1,1 @@
-this is a java program by sushil
+Java is an object oriented program
